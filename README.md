@@ -4,7 +4,9 @@ If the driver is found to be falling asleep then an alarm will be automatically 
 
 # Steps for use
 
-1. Download the three files and put them into a single directory
+1. Download the data file using the link https://drive.google.com/open?id=1x6TO5Btp0j8VnGMqwwAxrTBOaw-lC5kr
+
+1. Download the other two files and put all of them into a single directory
 
 2. Click on the drowsiness application file.
 
