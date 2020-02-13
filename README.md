@@ -8,4 +8,4 @@ If the driver is found to be falling asleep then an alarm will be automatically 
 
 2. Click on the drowsiness application file.
 
-3.Give your credintials and start using the application
+3. Give your credintials and start using the application
